@@ -1,10 +1,12 @@
 ## bruh
 
-アナログです．
-変な電車作ってます．
-今後の配布物は一通りGitHub使う予定です．
-昔に作った変な小物はuploader.jpでや配布してましたが，サイトが死ぬ予定らしいですね．
-まあめんどくさいで移行する気はありません．きっと．
+アナログです．<br>
+変な電車作ってます．<br>
+今後の配布物は一通りGitHub使う予定です．<br>
+昔に作った変な小物はuploader.jpでや配布してましたが，サイトが死ぬ予定らしいですね．<br>
+まあめんどくさいで移行する気はありません．きっと．<br>
+<br>
+xはこちら：https://x.com/analogmeter_RTM
 
 <!--
 **digitalrtm/digitalrtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
